@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>DAM_entregas</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>marcel_abad</module>
+        <module>sebastian_acero</module>
+        <module>rodrigo_boto</module>
+        <module>erik_calero</module>
+        <module>andrea_contreras</module>
+        <module>alvaro_cotumba</module>
+        <module>hector_curiel</module>
+        <module>ibrahima_diallo</module>
+        <module>juanvi_donas</module>
+        <module>alejandro_galazo</module>
+        <module>pablo_garcia_cercenado</module>
+        <module>pablo_garcia_duque</module>
+        <module>luis_gomez</module>
+        <module>unax_gonzalo</module>
+        <module>marcos_lujan</module>
+        <module>marco_martin</module>
+        <module>david_munoz</module>
+        <module>sergio_navarro</module>
+        <module>sergio_ortiz</module>
+        <module>daniel_pedregosa</module>
+        <module>cristian_pena</module>
+        <module>pablo_sanchez</module>
+        <module>pablo_sosa</module>
+        <module>carlos_suquilanda</module>
+        <module>adam_perez</module>
+        <module>oscar_renilla</module>
+        <module>luis_maturana</module>
+        <module>david_pino</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
